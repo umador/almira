@@ -7,3 +7,6 @@ Test repo for learning git
 * Eat pineapple
 * Find a pirate
 * Change the world"new line 1" 
+line1 
+line2 
+line3 
